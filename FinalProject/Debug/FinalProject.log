@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(76,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(77,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(149,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(185,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(651,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(652,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(653,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(658,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(659,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(663,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(664,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(665,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(666,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(677,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Main.cpp(719,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  FinalProject.vcxproj -> C:\Users\rssll\Documents\CS330\Mod 7\Project\FinalProject\Debug\FinalProject.exe
